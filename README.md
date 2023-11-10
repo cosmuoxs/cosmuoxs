@@ -1,16 +1,65 @@
-### Hi there 👋
+## Hello, I'm Micah 👋🏻
+
+> 📝 Bio: Web and mobile application tester <br>
+> 🎬 Favorite quote: "If there is something worse than failure, it is regret." - Master Kim, Romantic Doctor <br>
+> 🎨 VSCode theme: One Dark Pro + Material Icon <br>
+> 📢 Reminder to self: Don't forget to blink, take care of your eyes
+
+<a href="https://wakatime.com/@cosmuoxs">
+  <img alt="WakaTime Badge" height="25" src="https://wakatime.com/badge/user/018b0d05-5662-44ad-ba3e-df20d6b36884.svg?style=for-the-badge">
+</a>
+<a href="https://behance.net/micah_">
+  <img alt="Behance" height="25" src="https://img.shields.io/badge/-Behance_>-DDD?style=for-the-badge&logo=behance&labelColor=black">
+</a>
+
+### Spotify 🎶
+
+<img alt="Current Song / Last Song Played" src="https://cosmuoxs.vercel.app/api?theme=dark&rainbow=true&spin=true">
 
 <!--
-**cosmuoxs/cosmuoxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Knowldege & Skills 💡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚧 *Still under development*
+
+<table>
+  <tr>
+    <td>Retained (w/<br> bare minimum<br>familiarity)</td>
+    <td>
+      <img alt="" height="25" src="">
+    </td>
+  </tr>
+  <tr>
+    <td>Currently Learning</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>To Study</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Downgraded</td>
+    <td></td>
+  </tr>
+</table>
+
+-->
+
+### GitHub Stats 🚀
+
+<img alt="Current Streak" height="170"
+  src="https://streak-stats.demolab.com/?user=cosmuoxs&theme=nightowl&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=150">
+<img alt="Most Used Languages" height="145"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmuoxs&theme=nightowl&hide_border=true&layout=compact&langs_count=5">
+<img alt="Micah's GitHub Stats" height="145"
+  src="https://github-readme-stats.vercel.app/api?username=cosmuoxs&theme=nightowl&hide_border=true&show_icons=true&rank_icon=percentile&hide=contribs&card_width=300px">
+
+<hr>
+
+💻 Credits: [@anuraghazra](https://github.com/anuraghazra/github-readme-stats) | [@badges](https://github.com/badges/shields) | [@DenverCoder1](https://github.com/DenverCoder1/github-readme-streak-stats) | [@tthn0](https://github.com/tthn0/Spotify-Readme)
+
+<!--
+
+💻 Credits: [@anuraghazra](https://github.com/anuraghazra/github-readme-stats) | [@badges](https://github.com/badges/shields) | [@CodexLink](https://github.com/CodexLink/CodexLink) | [@DenverCoder1](https://github.com/DenverCoder1/github-readme-streak-stats) | [@tthn0](https://github.com/tthn0/Spotify-Readme)
+
 -->
