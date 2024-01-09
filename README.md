@@ -1,7 +1,7 @@
 ## Hello, I'm Micah
 
 > - Bio: Web, mobile and desktop application tester <br>
-> - Clock: At least 30 hours a week
+> - Timer: At least 30 hours a week
 
 <a href="https://wakatime.com/@cosmuoxs">
   <img alt="WakaTime Badge" height="25" src="https://wakatime.com/badge/user/018b0d05-5662-44ad-ba3e-df20d6b36884.svg?style=for-the-badge">
