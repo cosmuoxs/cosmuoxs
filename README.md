@@ -1,4 +1,4 @@
-## Hello, I'm Micah 👋🏼
+## Hello, I'm Micah
 
 > - Bio: Web, mobile and desktop application tester <br>
 > - Clock: At least 30 hours a week
@@ -10,15 +10,13 @@
   <img alt="Behance" height="25" src="https://img.shields.io/badge/-Behance_>-DDD?style=for-the-badge&logo=behance&labelColor=black">
 </a>
 
-### Spotify 🎶
+### Spotify
 
 <img alt="Current Song / Last Song Played" src="https://cosmuoxs.vercel.app/api?theme=dark&rainbow=true&spin=true">
 
 <!--
 
-### Knowldege & Skills 💡
-
-🚧 *Still under development*
+### Knowldege & Skills
 
 <table>
   <tr>
@@ -43,7 +41,7 @@
 
 -->
 
-### GitHub Stats 🚀
+### GitHub Stats
 
 <img alt="Current Streak" height="170"
   src="https://streak-stats.demolab.com/?user=cosmuoxs&theme=nightowl&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&card_width=150">
@@ -56,6 +54,6 @@
 
 <hr>
 
-💻 Credits: [@anuraghazra](https://github.com/anuraghazra/github-readme-stats) | [@badges](https://github.com/badges/shields) | [@CodexLink](https://github.com/CodexLink/CodexLink) | [@DenverCoder1](https://github.com/DenverCoder1/github-readme-streak-stats) | [@tthn0](https://github.com/tthn0/Spotify-Readme)
+Credits: [@anuraghazra](https://github.com/anuraghazra/github-readme-stats) | [@badges](https://github.com/badges/shields) | [@CodexLink](https://github.com/CodexLink/CodexLink) | [@DenverCoder1](https://github.com/DenverCoder1/github-readme-streak-stats) | [@tthn0](https://github.com/tthn0/Spotify-Readme)
 
 -->
