@@ -1,9 +1,7 @@
-## Hello, I'm Micah 👋🏻
+## Hello, I'm Micah 👋🏼
 
-> 📝 Bio: Web and mobile application tester <br>
-> 🎬 Favorite quote: "If there is something worse than failure, it is regret." - Master Kim, Romantic Doctor <br>
-> 🎨 VSCode theme: One Dark Pro + Material Icon <br>
-> 📢 Reminder to self: Don't forget to blink, take care of your eyes
+> - Bio: Web, mobile and desktop application tester <br>
+> - Clock: At least 30 hours a week
 
 <a href="https://wakatime.com/@cosmuoxs">
   <img alt="WakaTime Badge" height="25" src="https://wakatime.com/badge/user/018b0d05-5662-44ad-ba3e-df20d6b36884.svg?style=for-the-badge">
@@ -54,11 +52,9 @@
 <img alt="Micah's GitHub Stats" height="145"
   src="https://github-readme-stats.vercel.app/api?username=cosmuoxs&theme=nightowl&hide_border=true&show_icons=true&rank_icon=percentile&hide=contribs&card_width=300px">
 
-<hr>
-
-💻 Credits: [@anuraghazra](https://github.com/anuraghazra/github-readme-stats) | [@badges](https://github.com/badges/shields) | [@DenverCoder1](https://github.com/DenverCoder1/github-readme-streak-stats) | [@tthn0](https://github.com/tthn0/Spotify-Readme)
-
 <!--
+
+<hr>
 
 💻 Credits: [@anuraghazra](https://github.com/anuraghazra/github-readme-stats) | [@badges](https://github.com/badges/shields) | [@CodexLink](https://github.com/CodexLink/CodexLink) | [@DenverCoder1](https://github.com/DenverCoder1/github-readme-streak-stats) | [@tthn0](https://github.com/tthn0/Spotify-Readme)
 
